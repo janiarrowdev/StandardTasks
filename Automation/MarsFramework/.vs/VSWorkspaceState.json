@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MarsFramework",
+    "\\MarsFramework\\ExcelData",
+    "\\MarsFramework\\Pages",
+    "\\MarsFramework\\StepDef",
+    "\\MarsFramework\\Test",
+    "\\MarsFramework\\Test\\Features"
+  ],
+  "SelectedNode": "\\MarsFramework\\Test\\Features\\TestData.xlsx",
+  "PreviewInSolutionExplorer": false
+}
